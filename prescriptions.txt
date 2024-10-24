@@ -1,0 +1,1 @@
+Prescription: John Smith, Address: 1234 Baker Street, Melbourne VIC, Sphere: -5.0, Cylinder: -2.5, Axis: 90, Exam Date: 12/10/24, Optometrist: Dr. Howard

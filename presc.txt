@@ -1,0 +1,18 @@
+Prescription: John Smith, Address: 1234 Baker Street, Melbourne VIC, Sphere: -5.0, Cylinder: -2.5, Axis: 90.0, Exam Date: Thu Oct 24 19:03:33 AEDT 2024, Optometrist: Dr. Howard
+Prescription: John Smith, Address: 1234 Baker Street, Melbourne VIC, Sphere: 20.0, Cylinder: 4.0, Axis: 180.0, Exam Date: Thu Oct 24 19:03:33 AEDT 2024, Optometrist: Dr. Howard
+Prescription: John Smith, Address: 1234 Elm Street, Melbourne VIC, Sphere: -5.0, Cylinder: -2.5, Axis: 90.0, Exam Date: 24/10/24, Optometrist: Dr. Howard
+Prescription: John Smith, Address: 1234 Elm Street, Melbourne VIC, Sphere: 20.0, Cylinder: 4.0, Axis: 180.0, Exam Date: 24/10/24, Optometrist: Dr. Howard
+Prescription: John Smith, Address: 1234 Elm Street, Melbourne VIC, Sphere: -5.0, Cylinder: -2.5, Axis: 90.0, Exam Date: 24/10/24, Optometrist: Dr. Howard
+Prescription: John Smith, Address: 1234 Elm Street, Melbourne VIC, Sphere: 20.0, Cylinder: 4.0, Axis: 180.0, Exam Date: 24/10/24, Optometrist: Dr. Howard
+Prescription: John Smith, Address: 1234 Elm Street, Melbourne VIC, Sphere: -5.0, Cylinder: -2.5, Axis: 90.0, Exam Date: 24/10/24, Optometrist: Dr. Howard
+Prescription: John Smith, Address: 1234 Elm Street, Melbourne VIC, Sphere: 20.0, Cylinder: 4.0, Axis: 180.0, Exam Date: 24/10/24, Optometrist: Dr. Howard
+Prescription: John Smith, Address: 1234 Elm Street, Melbourne VIC, Sphere: -5.0, Cylinder: -2.5, Axis: 90.0, Exam Date: 24/10/24, Optometrist: Dr. Howard
+Prescription: John Smith, Address: 1234 Elm Street, Melbourne VIC, Sphere: 20.0, Cylinder: 4.0, Axis: 180.0, Exam Date: 24/10/24, Optometrist: Dr. Howard
+Prescription: John Smith, Address: 1234 Elm Street, Melbourne VIC, Sphere: -5.0, Cylinder: -2.5, Axis: 90.0, Exam Date: 24/10/24, Optometrist: Dr. Howard
+Prescription: John Smith, Address: 1234 Elm Street, Melbourne VIC, Sphere: 20.0, Cylinder: 4.0, Axis: 180.0, Exam Date: 24/10/24, Optometrist: Dr. Howard
+Prescription: John Smith, Address: 1234 Elm Street, Melbourne VIC, Sphere: -5.0, Cylinder: -2.5, Axis: 90.0, Exam Date: 24/10/24, Optometrist: Dr. Howard
+Prescription: John Smith, Address: 1234 Elm Street, Melbourne VIC, Sphere: 20.0, Cylinder: 4.0, Axis: 180.0, Exam Date: 24/10/24, Optometrist: Dr. Howard
+Prescription: John Smith, Address: 1234 Elm Street, Melbourne VIC, Sphere: -5.0, Cylinder: -2.5, Axis: 90.0, Exam Date: 24/10/24, Optometrist: Dr. Howard
+Prescription: John Smith, Address: 1234 Elm Street, Melbourne VIC, Sphere: 20.0, Cylinder: 4.0, Axis: 180.0, Exam Date: 24/10/24, Optometrist: Dr. Howard
+Prescription: John Smith, Address: 1234 Elm Street, Melbourne VIC, Sphere: -5.0, Cylinder: -2.5, Axis: 90.0, Exam Date: 24/10/24, Optometrist: Dr. Howard
+Prescription: John Smith, Address: 1234 Elm Street, Melbourne VIC, Sphere: 20.0, Cylinder: 4.0, Axis: 180.0, Exam Date: 24/10/24, Optometrist: Dr. Howard
